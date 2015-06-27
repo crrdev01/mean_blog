@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "server for mean blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crrkit01/mean_blog/tree/master/server"
+  },
+  "keywords": [
+    "basic",
+    "crud"
+  ],
+  "author": "crrkit01",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
